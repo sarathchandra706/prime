@@ -1,0 +1,20 @@
+{
+  "name": "prime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarathchandra706/prime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarathchandra706/prime/issues"
+  },
+  "homepage": "https://github.com/sarathchandra706/prime#readme"
+}
